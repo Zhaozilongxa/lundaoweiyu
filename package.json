@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "express": "^4.21.0",
+    "node-cron": "^3.0.3",
     "openai": "^4.61.0"
   }
 }
